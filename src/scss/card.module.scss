@@ -1,0 +1,46 @@
+@import './reset.scss', './variables';
+
+main{
+  
+  .card{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 1rem;
+    max-width: 18rem;
+    margin: auto;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: .5rem;
+    padding-top: 1rem;
+    background-color:$cardBackground;    
+    .images{
+      width: 50%;
+      border-radius: 15%;
+    }
+    .buttonsDiv{
+      button{
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+        border: none;
+        width: 5rem;
+        padding: .5rem;
+        margin: .5rem;
+        border-radius: 5rem;
+        cursor: pointer;
+        background-color: $darkPink;
+        color: $white;
+        transition: all 1s;
+        &:hover{
+          background-color: $lightPink;
+          color: $black;
+          transform: scale(1.05);
+        }
+
+      }
+    }
+
+    
+  }
+}
+
