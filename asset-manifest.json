@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reviewCardWithReact/static/css/main.13715b0b.css",
+    "main.js": "/reviewCardWithReact/static/js/main.1e5f5a98.js",
+    "index.html": "/reviewCardWithReact/index.html",
+    "main.13715b0b.css.map": "/reviewCardWithReact/static/css/main.13715b0b.css.map",
+    "main.1e5f5a98.js.map": "/reviewCardWithReact/static/js/main.1e5f5a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13715b0b.css",
+    "static/js/main.1e5f5a98.js"
+  ]
+}
