@@ -1,4 +1,4 @@
-REACT with reviewCardWithReact
+✔reviewCardWithReact✔
 
 [See to Page](https://ridvankoseler.github.io/reviewCardWithReact/)
 
