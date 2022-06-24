@@ -7,7 +7,7 @@ I used these in this project<br>
 👉import/export,<br>
 👉Destructuring props,<br>
 👉array <b>map</b> methods,<br>
-👉<b>useState</b>
+👉<b>Sass (module.scss)</b>
 
 
 
