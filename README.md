@@ -1,6 +1,6 @@
 REACT with reviewCardWithReact
 
-(See to Page)[https://ridvankoseler.github.io/reviewCardWithReact/]
+[See to Page](https://ridvankoseler.github.io/reviewCardWithReact/)
 
 I used these in this project
 👉<b>Components</b><br>
